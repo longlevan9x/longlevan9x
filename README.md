@@ -32,8 +32,3 @@
     <img src="https://profile-counter.glitch.me/longlevan9x/count.svg"/>
   </div> 
 </p>
-
-------
-
-Credit: [Niefee](https://github.com/Niefee)
-Last Edited on 03/02/2023
