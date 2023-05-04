@@ -1,5 +1,4 @@
 ## Hi there 👋
-------
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
@@ -11,7 +10,6 @@
 - 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
 
 ## Statistics 
-------
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=longlevan9x&theme=radical&show_icons=true&border=e4e2e2" />
