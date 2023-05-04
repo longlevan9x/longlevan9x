@@ -17,7 +17,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/longlevan9x">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;こんにちは!;Xin Chào!&center=true&width=380&height=45">
+		    <img src="https://readme-typing-svg.herokuapp.com?center=true&width=435&height=45&lines=Hello!+I'm+Long;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+%E3%83%AD%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82;Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+Long"/>
 	</a>
 </p>
 
@@ -49,7 +49,7 @@
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4?&style=flat&logo=php&logoColor=white)
@@ -75,9 +75,6 @@
 ![Angular](https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![jwt](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
-![Amp](https://img.shields.io/badge/Amp-000?style=flat&logo=amp&logoColor=005AF0)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Cloud & Hosting:**
@@ -95,9 +92,19 @@
 
 **Tools**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Gitlab](https://img.shields.io/badge/-Gitlab-f36925?style=flat&logo=Gitlab&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-914dec?style=flat&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-01cdd6?style=flat&logo=WebStorm&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-red?style=flat&logo=Redmine&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-e9478b?style=flat&logo=Kibana&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white)
+
+**Version Control & CI/CD**
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Jenkins](https://img.shields.io/badge/-Jenkins-c63935?style=flat&logo=jenkins&logoColor=white)
+
 
 **Web/Full Stack projects**
 
