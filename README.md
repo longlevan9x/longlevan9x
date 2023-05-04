@@ -46,6 +46,7 @@
 
 ## Knowledge 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -53,17 +54,20 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
 
 **Database**
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch)
 
 **Front-end**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white)
 ![Angular Ant Design](https://img.shields.io/badge/-Angular_Ant_Design-000000?style=flat&logo=Ant-Design)
 
 **Frameworks**
+
 ![Angular](https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -73,6 +77,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Enviroments**
+
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=F05032)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=Nginx&logoColor=F05032)
 ![HAProxy](https://img.shields.io/badge/-HAProxy-000000?style=flat&logo=HAProxy&logoColor=F05032)
@@ -80,11 +85,13 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=F05032)
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
