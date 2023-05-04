@@ -25,7 +25,7 @@
 ## Statistics 
 
 <p align="center">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&show_icons=true&count_private=true&include_all_commits=false&theme=material-palenight" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=longlevan9x&theme=material-palenight&show_icons=true&border=e4e2e2" />
 </p>
 
