@@ -32,16 +32,32 @@
 </p>
 ## Knowledge 
 
-**Languages I have used**
+**Languages**
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-**Some of the technologies I have worked with**
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch)
 
+**Front-end**
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
+![Angular Ant Design](https://img.shields.io/badge/-Angular_Ant_Design-000000?style=flat&logo=Ant-Design)
+
+**Enviroments**
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=F05032)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=Nginx&logoColor=F05032)
+![HAProxy](https://img.shields.io/badge/-HAProxy-000000?style=flat&logo=HAProxy&logoColor=F05032)
+![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos&logoColor=F05032)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=F05032)
+
+**Tools**
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
