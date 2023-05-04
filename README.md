@@ -9,6 +9,19 @@
 - ⚡ I know HTML
 - 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
 
+<p>
+	<a href="https://github.com/longlevan9x">
+		<img src="https://img.shields.io/github/followers/longlevan9x?label=Followers" alt="longlevan9x" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/longlevan9x">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;こんにちは!;Xin Chào!&center=true&width=380&height=45">
+	</a>
+</p>
+
+
 ## Statistics 
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
@@ -34,9 +47,9 @@
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 **Database**
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
@@ -44,10 +57,10 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch)
 
 **Front-end**
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
+![Angular](https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white)
 ![Angular Ant Design](https://img.shields.io/badge/-Angular_Ant_Design-000000?style=flat&logo=Ant-Design)
 
 **Enviroments**
