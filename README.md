@@ -51,7 +51,7 @@
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP%20-%23777BB4?&style=flat&logo=php&logoColor=white)
 
 **Database**
 
@@ -65,6 +65,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white)
 ![Angular Ant Design](https://img.shields.io/badge/-Angular_Ant_Design-000000?style=flat&logo=Ant-Design)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 **Frameworks**
 
@@ -83,14 +84,13 @@
 ![HAProxy](https://img.shields.io/badge/-HAProxy-000000?style=flat&logo=HAProxy&logoColor=F05032)
 ![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos&logoColor=F05032)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=F05032)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Web/Full Stack projects**
 
