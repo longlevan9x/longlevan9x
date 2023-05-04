@@ -102,6 +102,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=Notion&logoColor=white)
 
 **Version Control & CI/CD**
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-c63935?style=flat&logo=jenkins&logoColor=white)
 
