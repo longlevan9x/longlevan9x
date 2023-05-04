@@ -23,9 +23,10 @@
 
 
 ## Statistics 
+
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=longlevan9x&theme=radical&show_icons=true&border=e4e2e2" />
+    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=longlevan9x&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=longlevan9x&theme=material-palenight&show_icons=true&border=e4e2e2" />
 </p>
 
 <div align="center">
@@ -57,9 +58,11 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch)
+![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=ElasticSearch)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-**Front-end**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
@@ -76,6 +79,10 @@
 ![Amp](https://img.shields.io/badge/Amp-000?style=flat&logo=amp&logoColor=005AF0)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Cloud & Hosting:**
+
+![Laravel](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Enviroments**
 
@@ -94,4 +101,4 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
+[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/longlevan9x)
